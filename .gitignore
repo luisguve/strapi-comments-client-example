@@ -4,3 +4,4 @@ dist
 dist-ssr
 *.local
 ignore
+strapi-comments-client
