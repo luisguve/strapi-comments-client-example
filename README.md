@@ -1,6 +1,6 @@
 # Sample project that showcases the strapi-comment-client library
 
-This project showcases how to use the library [strapi-comment-client](https://npmjs.com/package/strapi-comment-client) from start to finish, using authenticated users to post comments and a router to group comments on their own pages.
+This project showcases how to use the library [strapi-comment-client](https://npmjs.com/package/strapi-comments-client) from start to finish, using authenticated users to post comments and a router to group comments on their own pages.
 
 ## Requirements
 
